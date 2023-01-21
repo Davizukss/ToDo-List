@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.App{
+  width: 40%;
+  margin: 2rem auto;
+  background-color: #394049;
+  border-radius: 5px;
+}
+.todo-header{
+  padding: 0.5rem;
+  border-bottom: 1px solid #2c3035;
+}
+.button{
+  cursor: pointer;
+  font-weight: 500;
+  color: #fff;
+  background-color: #007bff;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  padding: 15px;
+}
+form input{
+  border-radius: 5px;
+  margin: 20px;
+  padding: 5px;
+}
+.actions{
+  padding: 8px;
+  cursor: pointer;
+}
+p{
+
+  font-size: 15px;
+}
